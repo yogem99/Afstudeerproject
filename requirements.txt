@@ -1,0 +1,6 @@
+matplotlib
+plotly
+geopandas
+pydeck
+openpyxl
+seaborn
